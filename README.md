@@ -1,4 +1,4 @@
-# Planej  ando a tela
+# Planejando a tela
 - background degrade
 
 ## index.html
