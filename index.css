@@ -1,0 +1,28 @@
+body {
+  background: #ddd;
+}
+
+div {
+  margin: auto;
+  background: white;
+  width: 900px;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  background: #333;
+  border: none;
+  color: white;
+
+  width: 200px;
+  border-radius: 16px;
+  height: 100px;
+}
+
+button + button {
+  margin-left: 16px;
+    
+}
